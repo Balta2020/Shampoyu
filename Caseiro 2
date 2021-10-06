@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF: 1, ESPN 1 Holanda
+http://31.220.41.87:8081/live/nl-foxsports1.stream/chunks.m3u8
+#EXTINF: 1, ESPN 2 Holanda
+http://31.220.41.87:8081/live/nl-foxsports2.stream/chunks.m3u8
+#EXTINF: 1, BeinSport FR
+http://31.220.41.87:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF: 1, BeinSport 2 FR
+http://31.220.41.87:8081/live/fr-beinsport2.stream/chunks.m3u8
+#EXTINF: 1, BeinSport 3 FR
+http://31.220.41.87:8081/live/fr-beinsport3.stream/chunks.m3u8
+#EXTINF: 1, BeinSport 4 
+http://31.220.41.87:8081/live/bein4.stream/chunks.m3u8
+#EXTINF: 1, BeinSport 5
+http://31.220.41.87:8081/live/bein5.stream/chunks.m3u8
+#EXTINF: 1, BeinSport Prem
+http://31.220.41.87:8081/live/bein9.stream/chunks.m3u8
+#EXTINF: 1, La Ligatv Bar
+http://31.220.41.87:8081/live/es-laligatvbar.stream/chunks.m3u8
+#EXTINF: 1, TSN 1
+http://31.220.41.87:8081/live/tsn1.stream/chunks.m3u8
+#EXTINF: 1, TSN 2
+http://31.220.41.87:8081/live/tsn2.stream/chunks.m3u8
+#EXTINF: 1, TSN 3
+http://31.220.41.87:8081/live/tsn3.stream/chunks.m3u8
+#EXTINF: 1, Btsports 1
+http://31.220.41.87:8081/live/bt1.stream/chunks.m3u8
+#EXTINF: 1, Btsports 2
+http://31.220.41.87:8081/live/bt2.stream/chunks.m3u8
+#EXTINF: 1, Btsports 3
+http://31.220.41.87:8081/live/bt3.stream/chunks.m3u8
+#EXTINF: 1, RCM 1
+http://31.220.41.87:8081/live/fr-sfr1.stream/chunks.m3u8
+#EXTINF: 1, RCM 2
+http://31.220.41.87:8081/live/fr-sfr2.stream/chunks.m3u8
+#EXTINF: 1, RCM 3
+http://31.220.41.87:8081/live/fr-sfr3.stream/chunks.m3u8
+#EXTINF: 1, DAZN2 IT
+http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
+#EXTINF: 1, DAZN IT
+http://31.220.41.87:8081/live/it-dazn2.stream/chunks.m3u8
+#EXTINF: 1, DAZN3 IT
+http://31.220.41.87:8081/live/it-dazn3.stream/chunks.m3u8
+#EXTINF: 1, DAZN4 IT
+http://31.220.41.87:8081/live/it-dazn4.stream/chunks.m3u8
+#EXTINF: 1, DAZN1 ALE
+http://31.220.41.87:8081/live/de-dazn1.stream/chunks.m3u8
+#EXTINF: 1, DAZN1 ALE
+http://31.220.41.87:8081/live/de-dazn2.stream/chunks.m3u8
+#EXTINF: 1, FOXSOCCER 
+http://31.220.41.87:8081/live/foxsports1.stream/chunks.m3u8
+#EXTINF: 1, FOXSOCCER 2
+http://31.220.41.87:8081/live/foxsports2.stream/chunks.m3u8
+
